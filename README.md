@@ -1,3 +1,16 @@
-# CalculadoraIMC
--- Relatório da atividade -- 
-Para iniciar o projeto peguei uma outra atividade já concluida posteriormente, a atividade que peguei como base foi a da calculadora, ao abrir o documento, fiz algumas modificações, removi partes do código que não eram convenientes para esse projeto, como os métodos de adição, subtração, multiplicação e divisão, ao fazer isso, criei um novo método para o cálculo do imc, além dos cálculos, neste mesmo método há condicionais que me retornam uma String diferente dependendo do resultado do imc. Após a finalização do código, fiz uma pequena mudança de restingir para serem aceitas apenas duas casas depois da vírgula, logo após isso, fiz a instalação do .apk através de linha de comando, o .apk está disponibilizado na página principal.
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
